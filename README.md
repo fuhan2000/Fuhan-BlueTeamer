@@ -11,7 +11,7 @@ I am always eager to learn new cybersecurity stuff.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation          | <a href="https://google.com">AD Lab with Splunk</a>|
+| Introduction to Splunk          | <a href="https://github.com/fuhan2000/AD-Lab-with-Splunk/tree/main">AD Lab with Splunk</a>|
 
 ## Projects
-- AD Lab with Splunk
+- <a href="https://github.com/fuhan2000/AD-Lab-with-Splunk/tree/main">AD Lab with Splunk</a>
