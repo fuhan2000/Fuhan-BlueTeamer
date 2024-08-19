@@ -14,4 +14,5 @@ I am always eager to learn new cybersecurity stuff.
 | Introduction to Splunk           | <a href="https://github.com/fuhan2000/AD-Lab-with-Splunk/tree/main">AD Lab with Splunk</a>|
 | Setup OWASP Juice Shop with Docker          | <a href="https://github.com/fuhan2000/juice-shop-with-Docker">OWASP Juice Shop with Docker</a>|
 | Introduction to Burp Suite       | <a href="https://github.com/fuhan2000/Master-Burp-Suite-Like-a-Pro-in-Just-1-Hour-">Master Burp Suite Like a Pro in Just 1 Hour</a>|
-| Improper Input Validation        | <a href="https://github.com/fuhan2000/Zero-Stars-Improper-Input-Validation">Improper Input Validation in OWASP Juice Shop</a>
+| Improper Input Validation        | <a href="https://github.com/fuhan2000/Zero-Stars-Improper-Input-Validation">Improper Input Validation in OWASP Juice Shop</a>|
+| Sensitive Data Exposure          | <a href="https://github.com/fuhan2000/Confidential-Document-Sensitive-Data-Exposure"> Sensitive Data Exposure|
