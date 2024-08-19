@@ -16,3 +16,4 @@ I am always eager to learn new cybersecurity stuff.
 | Introduction to Burp Suite       | <a href="https://github.com/fuhan2000/Master-Burp-Suite-Like-a-Pro-in-Just-1-Hour-">Master Burp Suite Like a Pro in Just 1 Hour</a>|
 | Improper Input Validation        | <a href="https://github.com/fuhan2000/Zero-Stars-Improper-Input-Validation">Improper Input Validation in OWASP Juice Shop</a>|
 | Sensitive Data Exposure          | <a href="https://github.com/fuhan2000/Confidential-Document-Sensitive-Data-Exposure"> Sensitive Data Exposure|
+| DOM XSS                          | <a href="https://github.com/fuhan2000/DOM-XSS"> DOM XSS|
